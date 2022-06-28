@@ -1,6 +1,6 @@
 # Olá 🙋
 
-- 📚 Estudando Java Full Stack - Turma 53 da Generation Brasil
+- 📚 Desenvolvedora Web Jr Full Stack em formação pela Generation Brasil
 - 😄 Pronomes: Ela/Dela
 
 
