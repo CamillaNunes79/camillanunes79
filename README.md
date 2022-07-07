@@ -1,6 +1,6 @@
-# Hello World, I'm Camilla 💖
+# Hello World, I'm Camilla 💖 👩‍💻
 
- - Software Developer 👩‍💻
+
 
 
 <div align="center">
