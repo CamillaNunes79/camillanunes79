@@ -1,7 +1,6 @@
-# Olá 🙋
+# Hello World, I'm Camilla 💖
 
-- 📚 Desenvolvedora Web Jr Full Stack em formação pela Generation Brasil
-- 😄 Pronomes: Ela/Dela
+ - Software Developer 👩‍💻
 
 
 <div align="center">
