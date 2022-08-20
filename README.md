@@ -17,10 +17,7 @@
   <img align="center" alt="Cami-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Cami-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Cami-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-          
-<div>  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21upwupjzne4ndcszrpvprjka&cover_image=false&theme=default&bar_color=9b4663)](https://spotify-github-profile.vercel.app/api/view?uid=21upwupjzne4ndcszrpvprjka&redirect=true)
-  </div>          
+                  
           
   
 ## Learn more about me ⬇
