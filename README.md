@@ -26,3 +26,9 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/camilla-nunes-939819145" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div align="left">
+  <a href="https://open.spotify.com/user/22ierpbvtzfd7mnyqkhvzz2di">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ierpbvtzfd7mnyqkhvzz2di&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
