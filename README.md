@@ -1,4 +1,4 @@
-# Hello World, I'm Camilla 💖 👩‍💻
+# Hello World 💖👩‍💻
 
 
 
