@@ -1,6 +1,8 @@
-# Hello World 💖👩‍💻
+# Hello World, I'm Camilla 💖
 
-
+- I am passionate about nature and technology 🌱💻
+- I love listening to music 🎶
+- I have two cats: Leozinho and Romeu 😺😺
 
 
 <div align="center">
