@@ -1,7 +1,5 @@
 # Hello World, I'm Camilla 💖
 
-- I am passionate about nature and technology 🌱💻
-
 
 <div align="center">
    <a href="https://github.com/rafaballerini">
